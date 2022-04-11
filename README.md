@@ -22,3 +22,5 @@ Model_PredictingEmissions: This model predicts the amount of CO2 emissions from 
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
  
 Projects 9 and 10 will be completed by June 2022.
+
+Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for the files named here.
