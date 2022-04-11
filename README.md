@@ -6,6 +6,7 @@
 ###### PURPOSE provides a short snippet of what was accomplished.
 
 Application_ParsingEmails: This application parses emails in HTML format to convert them to readable text then sorted each by email part (from, to, title, etc).
+
 Application_ReturningWeather: This application returns current weather data for any location specified by the user.
 Application_SortingBiologicalData: This application sorts data in chromatography files specified by the user and outputs the data as graphs of protein concentration over time.
 ExecutiveSummary_PRCampaign: This summary presents a proposal to executives of an airline to adopt a PR campaign that would alleviate negative press caused by a crash.
