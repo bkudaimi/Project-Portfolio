@@ -19,10 +19,12 @@ Model_PredictingDeliveryStatus (Parts 1-4):  This model identifies which deliver
  
 Model_PredictingEmissions: This model predicts the amount of CO2 emissions from new motor vehicles to ensure government compliance.
 
+Model_PredictingHeartDiseaseRisk: This model predicts which patients will develop heart disease within a certain time frame to save lives and reduce diagnosis costs.
+
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
 
 Kudaimi_Bilal_DS_Project_List: A list of the projects and a short description summarizing each one.
 
-Projects 9 and 10 will be completed by June 2022.
+Project 10 will be completed by June 2022.
 
 Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for the files named here.
