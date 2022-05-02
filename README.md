@@ -1,4 +1,11 @@
-#### This repository showcases 10 projects I have completed in the past in both programming and machine learning.
+# About
+
+My name is Bilal Kudaimi and I am a data scientist who is passionate about helping humanity through data science/coding projects. Whether it be machine learning algorithms, applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
+
+# Projects
+
+#### The following are 10 of the projects I have completed in the past in both programming and machine learning.
+
 #### Each project has the following naming scheme: PROJECT_PURPOSE
 ###### PROJECT specifies what the project was for (application, model, presentation, etc). 
 ###### PURPOSE provides a short snippet of what was accomplished.
@@ -23,6 +30,10 @@ Model_PredictingMovieRatings: This model predicts the IMDb rating for new films 
 
 Kudaimi_Bilal_DS_Project_List: A list of the projects and a short description summarizing each one.
 
-Project 10 will be completed by June 2022.
+Project 10 is in progress and will be completed by June 2022. Stay tuned for more info!
 
 Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for the files named here.
+
+# Contact
+
+I can be reached at bkudaimi@gmail.com for any questions/comments about my work.
