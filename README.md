@@ -4,7 +4,7 @@ My name is Bilal Kudaimi and I am a data scientist who is passionate about helpi
 
 # Projects
 
-#### The following are 10 of the projects I have completed in the past in both programming and machine learning.
+#### The following are 10 projects I have completed in the past in both programming and machine learning.
 
 #### Each project has the following naming scheme: PROJECT_PURPOSE
 ###### PROJECT specifies what the project was for (application, model, presentation, etc). 
