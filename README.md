@@ -36,4 +36,4 @@ Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for 
 
 # Contact
 
-I can be reached at bkudaimi@gmail.com or at bkudaimi@ucdavis.edu for any questions/comments about my work.
+###### I can be reached at bkudaimi@gmail.com for any questions/comments about my work.
