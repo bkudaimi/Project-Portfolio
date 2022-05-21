@@ -1,3 +1,14 @@
+'''
+HPLC Data Analysis Assistant (DANA), for BioConsortia Inc.
+This application grabs HPLC files from the specified folder, sorts them into three categories, and outputs bar charts.
+
+Input: Name of a folder containing HPLC files exported as Excel files.
+Output: Five bar charts of lipopeptide peak areas for each sample and one Excel file containing the peak area values.
+
+Author: Bilal Kudaimi
+2021-03-12
+'''
+
 def DANA(directory):
     import matplotlib.pyplot as plt
     import os
