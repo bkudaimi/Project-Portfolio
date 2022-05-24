@@ -9,6 +9,7 @@ My name is Bilal Kudaimi and I am a data scientist who is passionate about helpi
 #### Each project has the following naming scheme: PROJECT_PURPOSE
 ###### PROJECT specifies what the project was for (application, model, presentation, etc). 
 ###### PURPOSE provides a short snippet of what was accomplished.
+###### Note: Application files contain descriptions of their input and output.
 
 Application_ParsingEmails: This application parses emails in HTML format to convert them to readable text then sorted each by email part (from, to, title, etc).
 
