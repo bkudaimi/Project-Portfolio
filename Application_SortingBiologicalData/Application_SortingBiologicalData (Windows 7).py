@@ -1,8 +1,12 @@
-#DANA v1.3
-#Copyright 2021 Bilal Kudaimi
-#Latest version: March 12, 2021
-#Input: Name of a folder containing HPLC files exported as Excel files.
-#Output: Five bar charts of lipopeptide peak areas for each sample and one Excel file containing the peak area values.
+'''
+HPLC Data Analysis Assistant (DANA), for BioConsortia Inc.
+Windows 7 version 
+This application grabs HPLC files from the specified folder, sorts them into three categories, and outputs bar charts.
+Input: Name of a folder containing HPLC files exported as Excel files.
+Output: Five bar charts of lipopeptide peak areas for each sample and one Excel file containing the peak area values.
+Author: Bilal Kudaimi
+2021-03-12
+'''
 
 def DANA(directory):
     #Importing the necessary libraries
