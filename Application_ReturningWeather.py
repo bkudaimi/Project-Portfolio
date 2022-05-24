@@ -2,10 +2,15 @@ import requests
 '''
 This program retrieves and presents weather data from OpenWeatherMap
 DSC 510
+
+Input: Name of any city in the world (string) or a US ZIP code (integer)
+Output: Descriptions of the current temperature, pressure, relative humidity, and cloudiness 
+
 Final Programming Assignment 10.2
 Author: Bilal Kudaimi
 August 9, 2020
 '''
+
 print('This program retrieves and presents weather data from OpenWeatherMap' '\nDSC 510')
 print('Final Programming Assignment 10.2', '\nAuthor: Bilal Kudaimi')
 print('August 9, 2020')
