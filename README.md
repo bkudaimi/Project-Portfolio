@@ -31,7 +31,7 @@ Model_PredictingHeartDiseaseRisk: This model predicts which patients will develo
 
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
 
-Kudaimi_Bilal_DS_Project_List: A list of the projects and a short description summarizing each one.
+The repository also contains a file called "Kudaimi_Bilal_DS_Project_List" that contains a list of the projects and a short description summarizing each one.
 
 Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for the files named here.
 
