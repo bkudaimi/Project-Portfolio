@@ -45,6 +45,8 @@ Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for 
 
 ![DANA](Application_SortingBiologicalData.PNG)
 
+![Heart disease model](Model_PredictingHeartDiseaseRisk.PNG)
+
 # Contact
 
 ###### I can be reached at bkudaimi@gmail.com for any questions/comments about my work.
