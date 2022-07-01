@@ -19,8 +19,7 @@ Application_SortingBiologicalData: This application sorts data in chromatography
 
 ExecutiveSummary_PRCampaign: This summary presents a proposal to executives of an airline to adopt a PR campaign that would alleviate negative press caused by a crash.
 
-![image](Capture.png)
-
+![image](Capture.PNG)
 
 Model_ClassifyingDigits: This classifier identifies the names of written numbers as a type of machine-learning-driven OCR (optical character recognition).
 
