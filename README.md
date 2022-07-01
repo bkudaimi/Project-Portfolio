@@ -41,7 +41,7 @@ Visit my GitHub repository at https://github.com/bkudaimi/Project-Portfolio for 
 
 #### Selected pictures of my work
 
-![Action plan](Capture.PNG)
+![Action plan](ExecutiveSummary_PRCampaign.PNG)
 
 # Contact
 
