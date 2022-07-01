@@ -1,5 +1,7 @@
 # About
 
+[url](https://www.linkedin.com/in/bilal-k-363433a2/)
+
 My name is Bilal Kudaimi and I am a data scientist who is passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
 
 # Projects
