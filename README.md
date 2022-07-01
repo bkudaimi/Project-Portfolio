@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/bkudaimi/Project-Portfolio/)
 
-My name is Bilal Kudaimi and I am a data scientist who is passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
+I am a data scientist who is passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
 
 # Projects
 
