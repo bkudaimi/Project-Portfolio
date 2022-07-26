@@ -1,3 +1,10 @@
+
+#Multiple Regression Model for Predicting Motor Vehicle Emissions
+#This model predicts the CO2 emissions of new motor vehicles.
+#Author: Bilal Kudaimi
+#Date: 2020-11-18
+
+
 library('ggplot2')
 library('tidyr')
 library('dplyr')
