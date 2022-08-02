@@ -27,7 +27,7 @@ Model_ClassifyingFlowers: This classifier analyzes a picture containing a flower
 
 Model_PredictingDeliveryStatus (Parts 1-4):  This model identifies which deliveries from an online retailer will be late so the retailer can remedy the problem accordingly.
  
-Model_PredictingEmissions: This model predicts the amount of CO2 emissions from new motor vehicles to ensure government compliance.
+Model_PredictingEmissions: This regression model predicts the amount of CO2 emissions from new motor vehicles to ensure government compliance.
 
 Model_PredictingGraduateAdmissions: This model predicts the probability of an international student to gain admission to an American graduate school.
 
