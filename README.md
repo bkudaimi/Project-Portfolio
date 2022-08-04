@@ -23,7 +23,7 @@ ExecutiveSummary_PRCampaign: This summary presents a proposal to executives of a
 
 Model_ClassifyingDigits: This classifier identifies the names of written numbers as a type of machine-learning-driven OCR (optical character recognition).
 
-Model_ClassifyingFlowers: This classifier analyzes a picture containing a flower and identifies the species of flower.
+Model_ClassifyingFlowers: This neural network classifier analyzes pictures containing flowers and identifies the species of flowers.
 
 Model_PredictingDeliveryStatus (Parts 1-4):  This model identifies which deliveries from an online retailer will be late so the retailer can remedy the problem accordingly.
  
