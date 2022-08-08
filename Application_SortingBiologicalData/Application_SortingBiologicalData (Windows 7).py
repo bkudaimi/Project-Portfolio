@@ -25,7 +25,7 @@ def DANA(directory):
         directory = str(directory)
 
         #Using the input to generate a path name
-        directory_str = 'C:\\Users\\Bioconsortia Inc\\Desktop\\HPLC Export Files\\{}\\'.format(directory)
+        directory_str = 'C:\\Users\\NAME\\Desktop\\HPLC Export Files\\{}\\'.format(directory)
         l = os.listdir(directory_str)
         #Getting the file names inside the specified folder
         file_names = [x.split('.')[0] for x in l if x.endswith('.xls')]
