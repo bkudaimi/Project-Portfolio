@@ -4,6 +4,7 @@
 
 My name is Bill Kudaimi and I am a data scientist with domain expertise in regression, classification, deep learning, data analytics, and visualization. I am passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world!
 _______________________________________________________________________________________________________________________________________________________________________
+
 # Projects
 
 #### Each project has the following naming scheme: PROJECT_PURPOSE
@@ -33,6 +34,7 @@ Model_PredictingMovieRatings: This model predicts the IMDb rating for new films 
 
 Visit my GitHub repository for the files named here.
 _______________________________________________________________________________________________________________________________________________________________________
+
 # Gallery
 
 #### Selected pictures of my work
