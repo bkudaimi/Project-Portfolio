@@ -2,7 +2,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/bilal-k-363433a2/) | [GitHub](https://github.com/bkudaimi/Project-Portfolio/)
 
-I am a data scientist who is passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
+My name is Bill Kudaimi and I am a data scientist with domain expertise in regression, classification, deep learning, data analytics, and visualization. I am passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
 
 # Projects
 
@@ -33,7 +33,7 @@ Model_PredictingHeartDiseaseRisk: This model predicts which patients will develo
 
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
 
-Visit my GitHub repository for the files named here. Note that a file called "Kudaimi_Bilal_DS_Project_List" containing a list of the projects is also present in the repository.
+Visit my GitHub repository for the files named here.
 
 # Pictures
 
