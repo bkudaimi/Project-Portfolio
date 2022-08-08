@@ -1,6 +1,6 @@
 # About
 
-[LinkedIn](https://www.linkedin.com/in/bilal-k-363433a2/) | [GitHub](https://github.com/bkudaimi/Project-Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/bill-k-363433a2/) | [GitHub](https://github.com/bkudaimi/Project-Portfolio/)
 
 My name is Bill Kudaimi and I am a data scientist with domain expertise in regression, classification, deep learning, data analytics, and visualization. I am passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world!
 _______________________________________________________________________________________________________________________________________________________________________
