@@ -2,11 +2,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/bilal-k-363433a2/) | [GitHub](https://github.com/bkudaimi/Project-Portfolio/)
 
-My name is Bill Kudaimi and I am a data scientist with domain expertise in regression, classification, deep learning, data analytics, and visualization. I am passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world! 
-
+My name is Bill Kudaimi and I am a data scientist with domain expertise in regression, classification, deep learning, data analytics, and visualization. I am passionate about helping humanity through coding projects. Whether it be machine learning algorithms, desktop applications, or just exploratory data analysis, I want to leave a positive impact on the world!
+_______________________________________________________________________________________
 # Projects
-
-#### The following are 10 projects I have completed in the past in both programming and machine learning.
 
 #### Each project has the following naming scheme: PROJECT_PURPOSE
 ###### PROJECT specifies what the project was for (application, model, presentation, etc). 
