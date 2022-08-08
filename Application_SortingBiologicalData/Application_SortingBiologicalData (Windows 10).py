@@ -36,7 +36,8 @@ def DANA(directory):
         for item in l:
             if item.endswith('.xls'):
                 pathnames.append(directory_str + item)
-
+        
+        #Reading each sample
         for path in pathnames:
             path_in_str = str(path)
             samples_list.append(pd.read_excel(path_in_str, 'Integration')[41:])
