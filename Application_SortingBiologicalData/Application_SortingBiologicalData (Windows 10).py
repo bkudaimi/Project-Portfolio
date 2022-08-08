@@ -1,5 +1,7 @@
 '''
-HPLC Data Analysis Assistant (DANA), for BioConsortia Inc.
+HPLC Data Analysis Assistant (DANA)
+Windows 10 version
+
 This application grabs HPLC files from the specified folder, sorts them into three categories, and outputs bar charts.
 
 Input: Name of a folder containing proprietary HPLC data exported as Excel files.
