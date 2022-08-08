@@ -31,7 +31,6 @@ def DANA(directory):
         file_names = [x.split('.')[0] for x in l if x.endswith('.xls')]
 
         # Grabbing all sample names within the directory
-        
         samples_list = []
         #Keep this line of code just in case. pathlist = Path(directory_str).rglob('*.xls')
         pathnames = []
