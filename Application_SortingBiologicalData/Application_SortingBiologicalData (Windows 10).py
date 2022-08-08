@@ -21,12 +21,13 @@ def DANA(directory):
 
     try:
         directory = str(directory)
-
-        directory_str = r'C:\\Users\\PS3ma\\Desktop\\{}\\'.format(directory)
+        
+        directory_str = r'C:\\Users\\NAME\\Desktop\\{}\\'.format(directory)
         l = os.listdir(directory_str)
         file_names = [x.split('.')[0] for x in l if x.endswith('.xls')]
 
         #Grabbing all sample names within the directory
+        #The HPLC column exports XLS files, so the application will ignore all other file types in the directory
         samples_list = []
         #pathlist = Path(directory_str).rglob('*.xls')
         pathnames = []
@@ -65,7 +66,7 @@ def DANA(directory):
             fengycin.append(fengycins)
             surfactin.append(surfactins)
 
-        # Plotting the I, F, S, and total lipopeptides.
+        # Plotting bar charts of the iturins, fengycins, surfactins, and total lipopeptides per each sample time point.
         plt.bar(file_names, iturin)
         plt.xlabel('Samples')
         plt.ylabel('Peak Area (mAU*min)')
