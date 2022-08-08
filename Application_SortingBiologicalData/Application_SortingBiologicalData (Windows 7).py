@@ -31,6 +31,7 @@ def DANA(directory):
         file_names = [x.split('.')[0] for x in l if x.endswith('.xls')]
 
         # Grabbing all sample names within the directory
+        
         samples_list = []
         #Keep this line of code just in case. pathlist = Path(directory_str).rglob('*.xls')
         pathnames = []
@@ -88,7 +89,7 @@ def DANA(directory):
 
 
 
-        # Plotting the iturins, fengycins, surfactins, and total lipopeptides for each sample
+        # Plotting bar charts of the iturins, fengycins, surfactins, and total lipopeptides per each sample time point.
         plt.bar(file_names, iturin)
         plt.xlabel('Samples')
         plt.ylabel('Peak Area (mAU*min)')
