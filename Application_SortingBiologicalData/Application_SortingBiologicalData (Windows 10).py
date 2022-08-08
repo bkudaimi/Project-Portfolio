@@ -20,8 +20,10 @@ def DANA(directory):
     warnings.filterwarnings('ignore')
 
     try:
+        #Converting function input into a string
         directory = str(directory)
         
+        #Using the input to generate a path name
         directory_str = r'C:\\Users\\NAME\\Desktop\\{}\\'.format(directory)
         l = os.listdir(directory_str)
         file_names = [x.split('.')[0] for x in l if x.endswith('.xls')]
