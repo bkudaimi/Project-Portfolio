@@ -32,8 +32,8 @@ Model_PredictingHeartDiseaseRisk: This model predicts which patients will develo
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
 
 Visit my GitHub repository for the files named here.
-
-# Pictures
+_______________________________________________________________________________________
+# Gallery
 
 #### Selected pictures of my work
 
