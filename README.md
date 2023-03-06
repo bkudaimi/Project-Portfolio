@@ -16,7 +16,7 @@ Application_ReturningWeather: This application returns current weather data for 
 
 Application_SortingBiologicalData: This application sorts data in HPLC files specified by the user and outputs the data as graphs of protein concentration per sample over time.
 
-ExecutiveSummary_PRCampaign: This summary presents a proposal to executives of an airline to adopt a PR campaign that would alleviate negative press caused by a crash.
+ExecutiveSummary_PRCampaign: This summary presents a proposal to executives of an airline to adopt a PR campaign that would alleviate negative press caused by a recent accident.
 
 Model_ClassifyingDigits: This classifier identifies the names of written numbers as a type of machine-learning-driven OCR (optical character recognition).
 
