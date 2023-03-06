@@ -11,10 +11,9 @@ August 9, 2020
 '''
 
 print('This program retrieves and presents weather data from OpenWeatherMap' '\nDSC 510')
-print('Final Programming Assignment 10.2', '\nAuthor: Bilal Kudaimi')
-print('August 9, 2020')
+print('Author: Bilal Kudaimi')
+print('Date: August 9, 2020')
 print(' ')
-print('Welcome, User')
 
 
 # Requests the weather data
