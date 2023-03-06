@@ -50,4 +50,4 @@ ________________________________________________________________________________
 
 # Contact
 
-###### I can be reached at bkudaimi@gmail.com for any questions/comments about my work.
+###### I can be reached at bkudaimi@gmail.com for any questions or comments about my work.
