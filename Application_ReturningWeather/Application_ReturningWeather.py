@@ -4,7 +4,7 @@ import requests
 This program retrieves and presents weather data from OpenWeatherMap
 
 Input: Name of any city in the world (string) or a US ZIP code (integer)
-Output: Descriptions of the current temperature, pressure, relative humidity, and cloudiness 
+Output: Descriptions of the current temperature, pressure, relative humidity, and cloudiness at the specified city or ZIP code.
 
 Author: Bilal Kudaimi
 August 9, 2020
