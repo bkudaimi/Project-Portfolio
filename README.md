@@ -30,7 +30,7 @@ Model_PredictingGraduateAdmissions: This model predicts the probability of an in
 
 Model_PredictingHeartDiseaseRisk: This model predicts which patients will develop heart disease within a certain time frame to save lives and reduce diagnosis costs.
 
-Model_PredictingHousePrices: This model was built for a Kaggle competition. The model predicts the final sale price of a house based on many features; this will allow potential buyers to better gauge the market and see which houses are good deals.
+Model_PredictingHousePrices: This model was built for a Kaggle competition. The model predicts the final sale price of a house based on many features, which will allow potential buyers to better gauge the market and determine whether a house sale price is a good deal.
 
 Model_PredictingMovieRatings: This model predicts the IMDb rating for new films allowing directors to focus on films predicted to be good ones.
 
