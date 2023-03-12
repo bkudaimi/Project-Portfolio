@@ -37,17 +37,6 @@ Model_PredictingMovieRatings: This model predicts the IMDb rating for new films 
 Visit my GitHub repository for the files named here.
 _______________________________________________________________________________________________________________________________________________________________________
 
-# Gallery
-
-#### Selected pictures of my work
-
-![Action plan](ExecutiveSummary_PRCampaign.PNG)
-
-![DANA](Application_SortingBiologicalData.PNG)
-
-![Heart disease model](Model_PredictingHeartDiseaseRisk.PNG)
-_______________________________________________________________________________________________________________________________________________________________________
-
 # Contact
 
 ###### I can be reached at bkudaimi@gmail.com for any questions or comments about my work.
